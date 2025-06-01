@@ -6,3 +6,7 @@
 	path = app/src/main/cpp/megasource
 	url = https://github.com/love2d/megasource
 	branch = main
+[submodule "love/src/jni/lua_modules/lua-https"]
+	path = love/src/jni/lua_modules/lua-https
+	url = https://github.com/love2d/lua-https
+	branch = main
