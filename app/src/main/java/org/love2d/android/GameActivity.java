@@ -78,6 +78,7 @@ public class GameActivity extends SDLActivity {
             "c++_shared",
             "SDL3",
             "oboe",
+				  "lovely",
             "openal",
             "luajit",
             "liblove",
